@@ -1,0 +1,5 @@
+# Raw photos sent over WhatsApp; the ones in use are copied into images/home
+ceko new pics/
+.vercel
+.DS_Store
+Thumbs.db
